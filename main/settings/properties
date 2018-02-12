@@ -1,0 +1,3 @@
+repository = "textfile"
+contacts = "contacts.txt"
+activities = "activities.txt"
